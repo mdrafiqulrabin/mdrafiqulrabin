@@ -1,6 +1,6 @@
 Hi There! 👋 🔭
 
-Dr. Rabin is a Postdoctoral Fellow in [Computer Science](https://www.uh.edu/nsm/computer-science/) at the [University of Houston](https://www.uh.edu/) and a member of the [Software Engineering Research Group (SERG)](https://uh.edu/serg/), supervised by [Dr. Alipour](https://www.aminalipour.com/). We are interested in AI/ML and LLMs for code intelligence and currently exploring methodologies to evaluate and enhance the transparency and safety of source code models. Visit my [website](https://sites.google.com/view/mdrafiqulrabin) for a detailed overview of my activities.
+I am keenly interested in AI/ML and Large Language Models (LLMs) for code intelligence and software engineering tasks. Currently, I am exploring methodologies to evaluate and enhance the transparency and safety of source code models. I obtained a Ph.D. in [Computer Science](https://www.uh.edu/nsm/computer-science/) at the [University of Houston](https://www.uh.edu/) (under the supervision of [Dr. Alipour](https://www.aminalipour.com/)). Visit my [website](https://sites.google.com/view/mdrafiqulrabin) for a detailed overview of my activities.
 
 ---
 
